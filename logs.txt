@@ -1,0 +1,241 @@
+2025-05-30 21:07:02 - Начало выполнения скрипта
+2025-05-30 21:07:02 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-05-30 21:07:02 - Файлы в директории: ['data.txt', 'example.xlsx', 'full_logs.txt', 'logs.txt', 'run.bat', 'run.txt', 'runex.txt', 'script.py']
+2025-05-30 21:07:02 - Успешно прочитано заказов: 0
+2025-05-30 21:07:02 - Начало расчёта раскроя рулонов
+2025-05-30 21:07:02 - Расчёт завершён. Найдено 0 решений
+2025-05-30 21:07:02 - Завершение работы скрипта
+2025-05-30 21:23:37 - Начало выполнения скрипта
+2025-05-30 21:23:37 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-05-30 21:23:37 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.bat', 'run.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-05-30 21:23:38 - openpyxl уже установлена
+2025-05-30 21:23:38 - Успешно записано 108 строк
+2025-05-30 21:23:38 - Завершение работы скрипта
+2025-05-30 21:23:40 - Начало выполнения скрипта
+2025-05-30 21:23:40 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-05-30 21:23:40 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.bat', 'run.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-05-30 21:23:40 - openpyxl уже установлена
+2025-05-30 21:23:40 - Успешно записано 108 строк
+2025-05-30 21:23:40 - Завершение работы скрипта
+2025-05-30 21:25:50 - Начало выполнения скрипта
+2025-05-30 21:25:50 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-05-30 21:25:50 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.bat', 'run.txt', 'run2.bat', 'run2.txt', 'run3.bat', 'runex.txt', 'script.py', 'script2.py']
+2025-05-30 21:25:51 - openpyxl уже установлена
+2025-05-30 21:25:51 - Успешно записано 108 строк
+2025-05-30 21:25:51 - Завершение работы скрипта
+2025-05-30 21:27:29 - Начало выполнения скрипта
+2025-05-30 21:27:29 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-05-30 21:27:29 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.bat', 'run.txt', 'run2.bat', 'run2.txt', 'run3.bat', 'runex.txt', 'script.py', 'script2.py']
+2025-05-30 21:27:30 - openpyxl уже установлена
+2025-05-30 21:27:30 - Успешно записано 108 строк
+2025-05-30 21:27:30 - Завершение работы скрипта
+2025-06-12 19:53:19 - Начало выполнения скрипта
+2025-06-12 19:53:19 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 19:53:19 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.bat', 'run.txt', 'run2.bat', 'run2.txt', 'run3.bat', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 19:53:22 - openpyxl уже установлена
+2025-06-12 19:53:22 - Успешно записано 108 строк
+2025-06-12 19:53:22 - Завершение работы скрипта
+2025-06-12 20:09:48 - Начало выполнения скрипта
+2025-06-12 20:09:48 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 20:09:48 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 20:09:49 - openpyxl уже установлена
+2025-06-12 20:09:50 - Успешно записано 108 строк
+2025-06-12 20:09:50 - Завершение работы скрипта
+2025-06-12 20:46:16 - Начало выполнения скрипта
+2025-06-12 20:46:16 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 20:46:16 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 20:46:17 - openpyxl уже установлена
+2025-06-12 20:46:17 - Успешно записано 108 строк
+2025-06-12 20:46:17 - Завершение работы скрипта
+2025-06-12 21:01:50 - Начало выполнения скрипта
+2025-06-12 21:01:50 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 21:01:50 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 21:01:51 - openpyxl уже установлена
+2025-06-12 21:01:51 - Успешно записано 108 строк
+2025-06-12 21:01:51 - Завершение работы скрипта
+2025-06-12 21:19:05 - Начало выполнения скрипта
+2025-06-12 21:19:05 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 21:19:05 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 21:19:06 - openpyxl уже установлена
+2025-06-12 21:19:06 - Успешно записано 108 строк
+2025-06-12 21:19:06 - Завершение работы скрипта
+2025-06-12 21:31:15 - Начало выполнения скрипта
+2025-06-12 21:31:15 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 21:31:15 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 21:31:16 - openpyxl уже установлена
+2025-06-12 21:31:16 - Успешно записано 108 строк
+2025-06-12 21:31:16 - Завершение работы скрипта
+2025-06-12 21:32:03 - Начало выполнения скрипта
+2025-06-12 21:32:03 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 21:32:03 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 21:32:04 - openpyxl уже установлена
+2025-06-12 21:32:04 - Успешно записано 108 строк
+2025-06-12 21:32:04 - Завершение работы скрипта
+2025-06-12 21:37:59 - Начало выполнения скрипта
+2025-06-12 21:37:59 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 21:37:59 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 21:38:00 - openpyxl уже установлена
+2025-06-12 21:38:00 - Успешно записано 108 строк
+2025-06-12 21:38:00 - Завершение работы скрипта
+2025-06-12 21:45:17 - Начало выполнения скрипта
+2025-06-12 21:45:17 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 21:45:17 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 21:45:17 - openpyxl уже установлена
+2025-06-12 21:45:17 - Успешно записано 108 строк
+2025-06-12 21:45:17 - Завершение работы скрипта
+2025-06-12 21:45:48 - Начало выполнения скрипта
+2025-06-12 21:45:48 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 21:45:48 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 21:45:48 - openpyxl уже установлена
+2025-06-12 21:45:48 - Успешно записано 108 строк
+2025-06-12 21:45:48 - Завершение работы скрипта
+2025-06-12 21:50:05 - Начало выполнения скрипта
+2025-06-12 21:50:05 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 21:50:05 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 21:50:06 - openpyxl уже установлена
+2025-06-12 21:50:06 - Успешно записано 108 строк
+2025-06-12 21:50:06 - Завершение работы скрипта
+2025-06-12 21:50:35 - Начало выполнения скрипта
+2025-06-12 21:50:35 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 21:50:35 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 21:50:36 - openpyxl уже установлена
+2025-06-12 21:50:36 - Успешно записано 108 строк
+2025-06-12 21:50:36 - Завершение работы скрипта
+2025-06-12 21:52:05 - Начало выполнения скрипта
+2025-06-12 21:52:05 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 21:52:05 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 21:52:06 - openpyxl уже установлена
+2025-06-12 21:52:06 - Успешно записано 108 строк
+2025-06-12 21:52:06 - Завершение работы скрипта
+2025-06-12 21:57:22 - Начало выполнения скрипта
+2025-06-12 21:57:22 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 21:57:22 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 21:57:22 - openpyxl уже установлена
+2025-06-12 21:57:22 - Успешно записано 108 строк
+2025-06-12 21:57:22 - Завершение работы скрипта
+2025-06-12 22:08:07 - Начало выполнения скрипта
+2025-06-12 22:08:07 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:08:07 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:08:07 - openpyxl уже установлена
+2025-06-12 22:08:07 - Успешно записано 108 строк
+2025-06-12 22:08:07 - Завершение работы скрипта
+2025-06-12 22:08:38 - Начало выполнения скрипта
+2025-06-12 22:08:38 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:08:38 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:08:39 - openpyxl уже установлена
+2025-06-12 22:08:39 - Успешно записано 108 строк
+2025-06-12 22:08:39 - Завершение работы скрипта
+2025-06-12 22:09:34 - Начало выполнения скрипта
+2025-06-12 22:09:34 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:09:34 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:09:34 - openpyxl уже установлена
+2025-06-12 22:09:34 - Успешно записано 108 строк
+2025-06-12 22:09:34 - Завершение работы скрипта
+2025-06-12 22:11:42 - Начало выполнения скрипта
+2025-06-12 22:11:42 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:11:42 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:11:42 - openpyxl уже установлена
+2025-06-12 22:11:42 - Успешно записано 108 строк
+2025-06-12 22:11:42 - Завершение работы скрипта
+2025-06-12 22:15:04 - Начало выполнения скрипта
+2025-06-12 22:15:04 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:15:04 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:15:05 - openpyxl уже установлена
+2025-06-12 22:15:05 - Успешно записано 108 строк
+2025-06-12 22:15:05 - Завершение работы скрипта
+2025-06-12 22:17:31 - Начало выполнения скрипта
+2025-06-12 22:17:31 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:17:31 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:17:31 - openpyxl уже установлена
+2025-06-12 22:17:31 - Успешно записано 108 строк
+2025-06-12 22:17:31 - Завершение работы скрипта
+2025-06-12 22:21:25 - Начало выполнения скрипта
+2025-06-12 22:21:25 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:21:25 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:21:25 - openpyxl уже установлена
+2025-06-12 22:21:25 - Успешно записано 108 строк
+2025-06-12 22:21:25 - Завершение работы скрипта
+2025-06-12 22:21:51 - Начало выполнения скрипта
+2025-06-12 22:21:51 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:21:51 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:21:52 - openpyxl уже установлена
+2025-06-12 22:21:52 - Успешно записано 108 строк
+2025-06-12 22:21:52 - Завершение работы скрипта
+2025-06-12 22:28:49 - Начало выполнения скрипта
+2025-06-12 22:28:49 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:28:49 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:28:50 - openpyxl уже установлена
+2025-06-12 22:28:50 - Успешно записано 108 строк
+2025-06-12 22:28:50 - Завершение работы скрипта
+2025-06-12 22:30:13 - Начало выполнения скрипта
+2025-06-12 22:30:13 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:30:13 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:30:13 - openpyxl уже установлена
+2025-06-12 22:30:13 - Успешно записано 108 строк
+2025-06-12 22:30:13 - Завершение работы скрипта
+2025-06-12 22:34:10 - Начало выполнения скрипта
+2025-06-12 22:34:10 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:34:10 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:34:10 - openpyxl уже установлена
+2025-06-12 22:34:10 - Успешно записано 108 строк
+2025-06-12 22:34:10 - Завершение работы скрипта
+2025-06-12 22:36:39 - Начало выполнения скрипта
+2025-06-12 22:36:39 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:36:39 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:36:40 - openpyxl уже установлена
+2025-06-12 22:36:40 - Успешно записано 108 строк
+2025-06-12 22:36:40 - Завершение работы скрипта
+2025-06-12 22:43:04 - Начало выполнения скрипта
+2025-06-12 22:43:04 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:43:04 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:43:05 - openpyxl уже установлена
+2025-06-12 22:43:05 - Успешно записано 108 строк
+2025-06-12 22:43:05 - Завершение работы скрипта
+2025-06-12 22:44:23 - Начало выполнения скрипта
+2025-06-12 22:44:23 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:44:23 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:44:23 - openpyxl уже установлена
+2025-06-12 22:44:23 - Успешно записано 108 строк
+2025-06-12 22:44:23 - Завершение работы скрипта
+2025-06-12 22:46:21 - Начало выполнения скрипта
+2025-06-12 22:46:21 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:46:21 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:46:22 - openpyxl уже установлена
+2025-06-12 22:46:22 - Успешно записано 108 строк
+2025-06-12 22:46:22 - Завершение работы скрипта
+2025-06-12 22:49:44 - Начало выполнения скрипта
+2025-06-12 22:49:44 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:49:44 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:49:44 - openpyxl уже установлена
+2025-06-12 22:49:44 - Успешно записано 108 строк
+2025-06-12 22:49:44 - Завершение работы скрипта
+2025-06-12 22:54:15 - Начало выполнения скрипта
+2025-06-12 22:54:15 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 22:54:15 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 22:54:16 - openpyxl уже установлена
+2025-06-12 22:54:16 - Успешно записано 108 строк
+2025-06-12 22:54:16 - Завершение работы скрипта
+2025-06-12 23:48:31 - Начало выполнения скрипта
+2025-06-12 23:48:31 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 23:48:31 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 23:48:32 - openpyxl уже установлена
+2025-06-12 23:48:32 - Успешно записано 108 строк
+2025-06-12 23:48:32 - Завершение работы скрипта
+2025-06-12 23:51:31 - Начало выполнения скрипта
+2025-06-12 23:51:31 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 23:51:31 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 23:51:32 - openpyxl уже установлена
+2025-06-12 23:51:32 - Успешно записано 108 строк
+2025-06-12 23:51:32 - Завершение работы скрипта
+2025-06-12 23:52:33 - Начало выполнения скрипта
+2025-06-12 23:52:33 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 23:52:33 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 23:52:34 - openpyxl уже установлена
+2025-06-12 23:52:34 - Успешно записано 108 строк
+2025-06-12 23:52:34 - Завершение работы скрипта
+2025-06-12 23:53:53 - Начало выполнения скрипта
+2025-06-12 23:53:53 - Текущая директория: D:\programingisfuckingshit\reskakartona\script
+2025-06-12 23:53:53 - Файлы в директории: ['data.txt', 'error_log.txt', 'example.xlsx', 'full_logs.txt', 'logs', 'logs.txt', 'run.txt', 'run2.bat', 'run2.txt', 'runex.txt', 'script.py', 'script2.py']
+2025-06-12 23:53:53 - openpyxl уже установлена
+2025-06-12 23:53:53 - Успешно записано 108 строк
+2025-06-12 23:53:53 - Завершение работы скрипта

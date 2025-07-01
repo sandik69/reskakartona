@@ -1,0 +1,2 @@
+@echo off
+powershell.exe -Command "cd замените_на_путь_к_папке; python script.py; python script2.py"

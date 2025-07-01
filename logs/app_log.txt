@@ -1,0 +1,4 @@
+2025-05-30 21:09:33 - Файл данных найден: D:\programingisfuckingshit\reskakartona\script\data.txt
+2025-05-30 21:09:37 - Файл данных найден: D:\programingisfuckingshit\reskakartona\script\data.txt
+2025-05-30 21:10:23 - Файл данных найден: D:\programingisfuckingshit\reskakartona\script\data.txt
+2025-05-30 21:13:07 - Файл данных найден: D:\programingisfuckingshit\reskakartona\script\data.txt
